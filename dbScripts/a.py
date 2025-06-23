@@ -1,4 +1,4 @@
 import pandas as pd
 
-df = pd.read_excel("../data/BaseDefinitivaINDICES-2005-2024.xlsx")
-df.to_csv("../data/matriculas.csv")
+df = pd.read_excel("../data/OfertaPregrado2025.xlsx")
+df.to_csv("../data/ofertasPregrado2025.csv")
